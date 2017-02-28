@@ -49,6 +49,7 @@ group :development do
   # deploy on server with capistrano
   gem 'capistrano', '~> 3.6'
   gem 'capistrano-rails', '~> 1.1'
+  gem 'capistrano-passenger'
   gem 'capistrano-rvm'
 end
 
