@@ -28,7 +28,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
-gem 'dotenv-rails'
+gem 'figaro'
 gem 'devise'
 
 # Use Capistrano for deployment

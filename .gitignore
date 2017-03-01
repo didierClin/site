@@ -26,3 +26,6 @@ config/database.yml
 .database.yml
 .secrets.yml
 trace.log
+
+# Ignore application configuration
+/config/application.yml
